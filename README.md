@@ -34,7 +34,7 @@ Optimized for standard consumer hardware, Axiom TTS requires no technical expert
 **Click the button below or use this [link](xxx) to download the installer**. 
 
 <div align="center">
-  <a href="asdasd"><img src="docs/img/download-windows.png" height="120px" /></a>
+  <a href="asdasd"><img src="docs/img/download.png" height="120px" /></a>
 </div>
 
 Please note that the current version of the application is available for Windows only. Upon installation, you’ll receive a 14-day free trial with access to all features. 
