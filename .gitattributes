@@ -1,0 +1,10 @@
+# Treat images as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+
+# SVGs are text but should use LF
+*.svg text eol=lf
