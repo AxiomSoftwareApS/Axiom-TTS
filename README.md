@@ -226,6 +226,7 @@ Before installing Axiom TTS on a new device, remember to deactivate your license
 
 
 ## Product vision
+
 My vision for this Product is to provide affordable, high-quality Text-to-Speech (TTS) solutions that are accessible to everyone. I believe that reliable TTS technology should be within reach without the burden of expensive subscriptions. By developing software that runs efficiently on standard hardware, I aim to empower individuals to use TTS in a way that fits their needs.
 
 I also recognize the importance of TTS solutions for people with reading difficulties, such as dyslexia. Many of these users may not have access to premium tools like AppWriter outside of school, so I want to offer an affordable and easy-to-use alternative that they in any stage of life can use.
@@ -234,6 +235,6 @@ I also recognize the importance of TTS solutions for people with reading difficu
 
 ## Information 
 CVR: xxxx   
-Email:  xxxxxx  
-Website:    
+Email:  AxiomenginEeringApS@gmail.com  
+Website: [Axiom-TTS](https://axiomtts.github.io/Axiom-TTS/)   
 Media: [Linkedin](), [YouTube](https://www.youtube.com/@Axiom-TTS)  

@@ -6,7 +6,7 @@
   <title>Axiom TTS</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 0; line-height: 1.5; }
-    header { padding: 48px 20px; background: #111; color: #fff; text-align: center; }
+    header { padding: 0px 10px 28px 10px; background: #111; color: #fff; text-align: center; }
     main { max-width: 900px; margin: 0 auto; padding: 24px 20px; }
     .btn { display: inline-block; padding: 12px 18px; border-radius: 6px; text-decoration: none; margin: 8px 6px 0 0; }
     .btn.primary { background: #2f6feb; color: #fff; }
@@ -14,6 +14,15 @@
     .btn:hover { opacity: 0.9;  transform: scale(1.05); /* 5% bigger */ } 
     img { max-width: 100%; border-radius: 10px; margin: 14px 0; }
     .box { background: #f6f8fa; padding: 16px; border-radius: 10px; }
+    .logo {
+  top: 0%;
+  left: 50%;
+  width: 200px;
+  margin: 0px;
+  padding: 0px;
+
+  
+}
   </style>
   <!-- load in another stile sheet  -->
    <style>
@@ -125,8 +134,11 @@ code {
 </head>
 <body>
   <header>
-    <h1>Axiom-TTS</h1>
-    <p>Text-to-Speech for Windows • 14-day free trial</p>
+    <!-- load logo under laryer -->
+    <img src="docs/img/logo.png" alt="Logo" class="logo"  />
+
+    <h1 style="margin-top: 10px">Axiom-TTS</h1>
+    <!-- <p>Text-to-Speech for Windows • 14-day free trial</p> -->
 
     <a class="btn primary" href="https://github.com/OWNER/REPO/releases/latest/download/FILENAME.exe">
       Download for Windows
@@ -144,15 +156,16 @@ code {
 
     Optimized for standard consumer hardware, Axiom TTS requires no technical expertise to install or operate. Its interface is designed to be clean, intuitive, and user-friendly. <br><br>
 
+    <div align="center"> 
     <iframe
-      width="560"
-      height="315"
+      width="640"
+      height="395"
       src="https://www.youtube.com/embed/UqmR1wI4O2Q"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen>
     </iframe>
-
+    </div>
 
 
   <p>For more details, please visit the <a href="https://github.com/AxiomTTS/Axiom-TTS">GitHub repository</a>, or check out the <a href="https://www.youtube.com/@Axiom-TTS">YouTube channel</a> for tutorials and show casing of new features.</p>
@@ -224,14 +237,14 @@ code {
 
     <h2>Information</h2>
     <p>CVR: xxxx</p>
-    <p>Email: you@example.com</p>
+    <p>Email: AxiomenginEeringApS@gmail.com</p>
     <p>GitHub: <a href="https://github.com/AxiomTTS/Axiom-TTS"> Axiom-TTS</a> </p>
     <p>Media: <a href="">linkedin</a>, <a href="https://www.youtube.com/@Axiom-TTS">YouTube</a></p>
   </main>
 
 
   <!-- Discount Popup -->
-<div id="discountModal" class="modal" aria-hidden="true">
+<!-- <div id="discountModal" class="modal" aria-hidden="true">
   <div class="modal__backdrop" data-close="true"></div>
 
   <div class="modal__card" role="dialog" aria-modal="true" aria-labelledby="discountTitle">
@@ -314,7 +327,7 @@ code {
       }
     });
   })();
-</script>
+</script> -->
 
 </body>
 
