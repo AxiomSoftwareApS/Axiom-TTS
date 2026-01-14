@@ -234,7 +234,7 @@ I also recognize the importance of TTS solutions for people with reading difficu
 
 
 ## Information 
-Company: Axiom ApS
+Company: Axiom ApS  
 CVR: 46180097   
 Email:  AxiomenginEeringApS@gmail.com  
 Website: [Axiom-TTS](https://axiomtts.github.io/Axiom-TTS/)   
