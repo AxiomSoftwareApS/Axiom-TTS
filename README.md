@@ -16,7 +16,7 @@ Axiom TTS is a locally run Text-to-Speech (TTS) application that converts text i
 
 Optimized for standard consumer hardware, Axiom TTS requires no technical expertise to install or operate. Its interface is designed to be clean, intuitive, and user-friendly.
 
-For a quick overview and a minimal demonstration of Axiom TTS, visit the [official website](https://axiomtts.github.io/Axiom-TTS/). It provides a concise presentation of the product and its core features.
+For a quick overview and a minimal demonstration of Axiom TTS, visit the [official website](https://axiomsoftwareaps.github.io/Axiom-TTS/). It provides a concise presentation of the product and its core features.
 
 ## Contents
 
@@ -237,5 +237,5 @@ I also recognize the importance of TTS solutions for people with reading difficu
 Company: Axiom ApS  
 CVR: 46180097   
 Email:  AxiomenginEeringApS@gmail.com  
-Website: [Axiom-TTS](https://axiomtts.github.io/Axiom-TTS/)   
+Website: [Axiom-TTS](https://axiomsoftwareaps.github.io/Axiom-TTS/)   
 Media: [Linkedin](), [YouTube](https://www.youtube.com/@Axiom-TTS)  
