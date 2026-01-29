@@ -35,7 +35,8 @@ For a quick overview and a minimal demonstration of Axiom TTS, visit the [offici
 **Click the button below or use this [link](xxx) to download the installer**. 
 
 <div align="center">
-  <a href="asdasd"><img src="docs/img/download.png" height="120px" /></a>
+  <a href="https://github.com/AxiomSoftwareApS/Axiom-TTS/releases/latest/download/Axiom-TTS-installer.exe
+"><img src="docs/img/download.png" height="120px" /></a>
 </div>
 
 Please note that the current version of the application is available for Windows only. Upon installation, you’ll receive a 14-day free trial with access to all features. 
@@ -166,10 +167,10 @@ Here is a list of the prices for the Axiom TTS
 |-----------|----------|----------|----------|-----------|
 | Axiom TTS | [20 DKK]() |  [150 DKK]()  | [300 DKK]() | [1.250 DKK]()  |
 
-Click the button below to buy a license. It while take you to the purchase page on [LemonSqueezy](https://www.lemonsqueezy.com).
+Click the button below to buy a license. It while take you to the purchase page on [LemonSqueezy](https://axiom-tts.lemonsqueezy.com)
 
 <div align="center">
-  <a href="asdasd"><img src="docs/img/Buy.png" height="220px" /></a>
+  <a href="https://axiom-tts.lemonsqueezy.com"><img src="docs/img/Buy.png" height="220px" /></a>
 </div>
 
 if you are interested can you check out:
@@ -194,7 +195,7 @@ In the table below, you’ll find a comparison of this application's pricing wit
 |-----------|----------|----------|----------|-----------|
 | [Appwriter](https://www.wizkids.dk/produkter/appwriter/) | No option | [1.845,00 DKK](https://bevillingdanmark.dk/shop/privat-licens-appwriter-883p.html)  | [5.500,00 DKK](https://bevillingdanmark.dk/shop/appwriter-til-alle-645p.html) | No option |
 | [NaturalReader](https://www.naturalreaders.com/webapp.html) | [~134,61 DDK](https://www.naturalreaders.com/webapp.html)   | [~766,49 DKK](https://www.naturalreaders.com/payment/pwpay/plans)  | No option | No option |
-| Axiom TTS | [20 DKK]() |  [150 DKK]()  | [300 DKK]() | [1.250 DKK]()  |
+| Axiom TTS | [20 DKK](https://axiom-tts.lemonsqueezy.com) |  [150 DKK](https://axiom-tts.lemonsqueezy.com)  | [300 DKK](https://axiom-tts.lemonsqueezy.com) | [1.250 DKK](https://axiom-tts.lemonsqueezy.com)  |
 
 Below is a table highlighting the differences between Axiom TSS and other popular TTS applications on the market. Some of the key features and advantages are compared for your convenience.
 
