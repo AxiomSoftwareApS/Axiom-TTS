@@ -7,7 +7,7 @@
   <img alt="License" src="https://img.shields.io/badge/License-Commercial-blue?style=for-the-badge&color=0066CC">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-Supported-green?style=for-the-badge&color=00CC00">
   <img alt="Latest Release" src="https://img.shields.io/github/v/release/AxiomSoftwareApS/Axiom-TTS?style=for-the-badge&color=FF6B35">
-  <img alt="Total Downloads" src="https://img.shields.io/github/downloads/AxiomSoftwareApS/Axiom-TTS/total?style=for-the-badge&color=00CC66">
+  <!-- <img alt="Total Downloads" src="https://img.shields.io/github/downloads/AxiomSoftwareApS/Axiom-TTS/total?style=for-the-badge&color=00CC66"> -->
 </div>
 
 ---
