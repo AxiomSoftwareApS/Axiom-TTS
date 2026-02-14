@@ -6,8 +6,8 @@
 <div align="center">
   <img alt="License" src="https://img.shields.io/badge/License-Commercial-blue?style=for-the-badge&color=0066CC">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-Supported-green?style=for-the-badge&color=00CC00">
-  <img alt="Latest Release" src="https://img.shields.io/github/v/release/yourusername/yourapp?style=for-the-badge&color=FF6B35">
-  <img alt="Total Downloads" src="https://img.shields.io/github/downloads/yourusername/yourapp/total?style=for-the-badge&color=00CC66">
+  <img alt="Latest Release" src="https://img.shields.io/github/v/release/AxiomSoftwareApS/Axiom-TTS?style=for-the-badge&color=FF6B35">
+  <img alt="Total Downloads" src="https://img.shields.io/github/downloads/AxiomSoftwareApS/Axiom-TTS/total?style=for-the-badge&color=00CC66">
 </div>
 
 ---
@@ -32,7 +32,7 @@ For a quick overview and a minimal demonstration of Axiom TTS, visit the [offici
 
 
 ## Installation
-**Click the button below or use this [link](xxx) to download the installer**. 
+**Click the button below or use this [link](https://github.com/AxiomSoftwareApS/Axiom-TTS/releases/latest/download/Axiom-TTS-installer.exe) to download the installer**. 
 
 <div align="center">
   <a href="https://github.com/AxiomSoftwareApS/Axiom-TTS/releases/latest/download/Axiom-TTS-installer.exe
@@ -165,7 +165,7 @@ Here is a list of the prices for the Axiom TTS
 
 | Companies | Monthly  | 1 year   | 3 years  | For life |
 |-----------|----------|----------|----------|-----------|
-| Axiom TTS | [20 DKK]() |  [150 DKK]()  | [300 DKK]() | [1.250 DKK]()  |
+| Axiom TTS | [40 DKK](https://axiom-tts.lemonsqueezy.com) |  [150 DKK](https://axiom-tts.lemonsqueezy.com)  | [300 DKK](https://axiom-tts.lemonsqueezy.com) | [1.250 DKK](https://axiom-tts.lemonsqueezy.com)  |
 
 Click the button below to buy a license. It while take you to the purchase page on [LemonSqueezy](https://axiom-tts.lemonsqueezy.com)
 
@@ -176,7 +176,7 @@ Click the button below to buy a license. It while take you to the purchase page 
 if you are interested can you check out:
 
   - [Pricing comparison with other TTS solutions](#pricing-comparison)
-  - [Student discount](#student-discount)
+  <!-- - [Student discount](#student-discount) -->
   - [Activating your license](#activating-your-license)
 
 
@@ -214,7 +214,7 @@ Below is a table highlighting the differences between Axiom TSS and other popula
 Here below is a step-by-step guide on how to activate your license:
 
   0. Download and install the Axiom TTS on you computer from the [installation section](#installation).
-  1. purchase a license from the [lemon squeezy](xx), se the [buying license section](#buying-license).
+  1. purchase a license from the [lemon squeezy](https://axiom-tts.lemonsqueezy.com), se the [buying license section](#buying-license).
   2. After purchasing a license, you will receive an email containing your license key.
   3. Open the Axiom TTS application on your computer. and click on the activate license icon it is located beside the menu icon. 
   4. Enter the license key into the “Enter License Key” text box and click Activate. Your license will now be activated, granting full access to all Axiom TTS features. If you revisit the Activate License menu, you can view your license details, including the license type, number of days remaining, and expiration date.
